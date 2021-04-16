@@ -1,0 +1,23 @@
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+out/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+#
